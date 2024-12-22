@@ -8,7 +8,7 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [naqviirtiza9@gmail.com](mailto:naqviirtiza9@gmail.com)
-* 🧠  I'm learning ASP.NET
+* 🧠  I'm currently Learning AI, ML, GenAI, DL
 * 🤝  I'm open to collaborating on AI, Web, App development Projects
 
 ### Skills
