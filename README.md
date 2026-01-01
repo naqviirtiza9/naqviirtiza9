@@ -30,8 +30,12 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naqviirtiza9&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/irtiza05)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naqviirtiza9&icon=0&color=0)](https://visitcount.itsvg.in)
