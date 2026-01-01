@@ -4,6 +4,7 @@
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFrd2s4MHU4MXJvanU2ZjhjM2dmYmw2N2s2Y3MzZzloa3lpa3JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif"
     alt="Animated GIF"
     width="100%"
+    height="430"
   />
 </p>
 
@@ -27,8 +28,7 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naqviirtiza9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
