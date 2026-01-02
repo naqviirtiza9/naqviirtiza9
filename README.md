@@ -23,18 +23,26 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
 
 
 # 📊 GitHub Stats:
-<a href="github.com/naqviirtiza9">![](https://github-readme-stats.vercel.app/api?username=naqviirtiza9&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/></a>
-![](https://nirzak-streak-stats.vercel.app/?user=naqviirtiza9&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naqviirtiza9&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p align="start">  
-<a href="https://github.com/Syed007Hassan">
+
+<p align="center">
+  <a href="https://github.com/naqviirtiza9">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=naqviirtiza9&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naqviirtiza9&theme=dracula&hide_border=false" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqviirtiza9&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
+</a>
+
+</p>
+
+
+<p align="center">  
+<a href="https://github.com/naqviirtiza9">
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naqviirtiza9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naqviirtiza9&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-
+<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naqviirtiza9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -43,11 +51,16 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
 
 
 
+## 🔝 Top Contributed Repo and Leetcode Contributions
+<p align="center">
+  
+  <br/>
+  <a href="https://github.com/naqviirtiza9">
+    <img height="220em" src="https://github-contributor-stats.vercel.app/api?username=naqviirtiza9&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+    <img height="220em" src="https://leetcard.jacoblin.cool/irtiza05"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naqviirtiza9&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/irtiza05)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naqviirtiza9&icon=0&color=0)](https://visitcount.itsvg.in)
