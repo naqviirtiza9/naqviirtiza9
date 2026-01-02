@@ -56,8 +56,8 @@ I am an aspiring software engineer graduated from FAST NUCES with BSSE degree. M
   
   <br/>
   <a href="https://github.com/naqviirtiza9">
-    <img height="220em" src="https://github-contributor-stats.vercel.app/api?username=naqviirtiza9&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-    <img height="220em" src="https://leetcard.jacoblin.cool/irtiza05"/>
+    <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=naqviirtiza9&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+    <img height="180em" src="https://leetcard.jacoblin.cool/irtiza05"/>
   </a>
 </p>
 
